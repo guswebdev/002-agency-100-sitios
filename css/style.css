@@ -24,3 +24,7 @@ body {
 .textarea {
     resize: none;
 }
+
+.text-primary-personalized {
+    color: #ff7867;
+}
