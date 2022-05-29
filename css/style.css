@@ -15,9 +15,12 @@ body {
 
 .hero {
     width: 100%;
-    background-color: lightblue;
 }
 
 .min-vh-100-calc {
     min-height: calc(100vh - 56px);
+}
+
+.textarea {
+    resize: none;
 }
