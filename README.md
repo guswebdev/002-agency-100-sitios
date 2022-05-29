@@ -5,6 +5,6 @@
 
 
 
-*Sitio Web En Linea* : [Hotel Zante](https://guswebdev.github.io/002-agency-100-sitios/)
+*Sitio Web En Linea* : [Agencia 100Sitios](https://guswebdev.github.io/002-agency-100-sitios/)
 
 *Linkedin* : [Gustavo Miño](https://www.linkedin.com/in/gustavo-dev-web/)
